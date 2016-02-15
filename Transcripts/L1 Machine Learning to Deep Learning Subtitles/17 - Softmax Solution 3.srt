@@ -1,0 +1,18 @@
+1
+00:00:00,470 --> 00:00:03,400
+When you divide the scores
+by 10 the probabilities
+
+2
+00:00:03,400 --> 00:00:04,988
+become very close to the uniform.
+
+3
+00:00:04,988 --> 00:00:09,580
+One-third, one-third, one-third.
+
+4
+00:00:09,580 --> 00:00:12,360
+When you divide the scores by
+10 the second answer is correct.
+
